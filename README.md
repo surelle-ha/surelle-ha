@@ -16,13 +16,13 @@
     </a>
     <br>
     <a href="https://coindrop.to/surelle">
-     <img src="https://img.shields.io/badge/Coindrop-blue?style=for-the-badge&logo=coins&logoColor=white" alt="Coindrop Badge"/>
+     <img src="https://img.shields.io/badge/Coindrop-orange?style=for-the-badge&logo=coins&logoColor=white" alt="Coindrop Badge"/>
     </a>
     <a href="https://paypal.me/surelleha">
-     <img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge"/>
+     <img src="https://img.shields.io/badge/PayPal-orange?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge"/>
     </a>
     <a href="https://ko-fi.com/surelle">
-     <img src="https://img.shields.io/badge/KoFi-blue?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi Badge"/>
+     <img src="https://img.shields.io/badge/KoFi-orange?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi Badge"/>
     </a>
   </div>
   <div align="center">
