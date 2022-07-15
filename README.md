@@ -1,4 +1,3 @@
-
 <div align="center">
 	<h1>S U R E L L E</h1>
 	<img src="https://img.shields.io/badge/Website-Yes-orange">
@@ -14,6 +13,16 @@
     </a>
     <a href="https://twitter.com/escolidista1">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <br>
+    <a href="https://coindrop.to/surelle">
+     <img src="https://img.shields.io/badge/Coindrop-blue?style=for-the-badge&logo=coins&logoColor=white" alt="Coindrop Badge"/>
+    </a>
+    <a href="https://paypal.me/surelleha">
+     <img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge"/>
+    </a>
+    <a href="https://ko-fi.com/surelle">
+     <img src="https://img.shields.io/badge/KoFi-blue?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi Badge"/>
     </a>
   </div>
   <div align="center">
@@ -42,4 +51,5 @@ Additional Feature for **Vortus**. You can now include ReactJS and jQuery to you
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surelle-ha&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surelle-ha&layout=compact&theme=vision-friendly-dark)](https://github.com/surelle-ha/surelle-ha/blob/main/README.md)
+
 
