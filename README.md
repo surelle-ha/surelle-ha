@@ -28,7 +28,7 @@
   <div align="center">
 	  <img src="https://komarev.com/ghpvc/?username=surelle-ha&style=flat-square&color=blue" alt=""/>
 	  <h3>Hey there! Welcome to my profile.</h3>
-	  <p>My name is <b>Harold</b> and I'm from the Philippines. I'm working as a freelance Full Stack Developer for 5 years. I'm an experienced developer who constantly seeks out innovative solutions to everyday problems. In my five years in this industry, I've honed my analytical thinking and collaboration skills, and I love working both alone or with a team.</p> 
+	  <p>My name is <b>Harold</b> and I'm from the Philippines. I'm working as a IT Consultant and freelance Full Stack Developer. I'm an experienced developer who constantly seeks out innovative solutions to everyday problems. In my five years in this industry, I've honed my analytical thinking and collaboration skills, and I love working both alone or with a team.</p> 
 	  <p>You may visit my <i><a href="https://github.com/surelle-ha/">Github Repository</a></i> for useful tools like <b>Legion OSINT Tool</b></p>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/><br>
   <img src="https://img.shields.io/badge/Repository-7-blue"><br>
