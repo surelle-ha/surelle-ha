@@ -35,25 +35,6 @@
   <i>3633d305eca065a768e192dbd6842e1f</i>
 </div>
 
-## What's New?
-**[ 2022-07-15 ]** UI improvement and Bug Fixed.
-- jQuery CDN Duplicating fixed.
-- JSON preview on project creation is now turned off. 
-- HTML removed from file selection and will be generated as default.
-- Developmental Server Port changed to 8181 as default.
-- Developmental Server Port can now be changed on project's <u>*config_development.json*</u>
-- Server root directory changed from <u>*/dev-projects/project_name/*</u> to <u>*/project_name/*</u>
-
-**[ 2020-07-13 ]** Additional Feature for Vortus. You can now include ReactJS and jQuery to your project. 
-- React JS (Development & Production) Added!
-- jQuery Added
-
-## Developer
-
- - Surelle-ha -- [Twitter](https://twitter.com/escolidista1)
- 
- _I'm currently looking for contributors to help improve my projects. Contact me on [Twitter](https://twitter.com/escolidista1), if you're interested._
- 
 ## Statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surelle-ha&theme=dark&background=000000)](https://git.io/streak-stats)
