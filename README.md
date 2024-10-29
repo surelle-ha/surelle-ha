@@ -12,10 +12,14 @@
     Hey there! Welcome to my profile.
 </h3>
 		<div style="display: flex; align-items: center; justify-content: center; gap: 20px; max-width: 800px; margin: auto;">
-			<div style="flex: 1; text-align: left;">
-				<a>
-					My name is <b>Harold</b>, and I'm from the Philippines. I'm working as an IT and freelance Full Stack Developer. I'm an experienced developer who constantly seeks out innovative solutions to everyday problems. In my five years in this industry, I've honed my analytical thinking and collaboration skills, and I love working both alone or with a team.
-				</a>
+			<div style="flex: 1; text-align: justify;">
+					<code>Hi, I'm Harold Eustaquio, a freelance developer with more than 3 years of experience in software development. I have been working as a freelance developer since 2018 and have gained expertise in a wide range of programming languages including C, C++, PHP, Javascript, Java, and Python. Apart from my programming skills, I also have experience in various frameworks such as Laravel, Vue.JS, Express.JS, Node.JS and Flask. These frameworks have helped me to develop robust and scalable applications for my clients.</code>
+
+<code>Before diving into the world of software development, I also worked in customer service for a year, which has given me excellent communication and problem-solving skills. Additionally, I worked as a tech support, where I was responsible for helping clients with various technical issues.</code>
+
+<code>In my free time, I love to explore new technologies and experiment with different programming languages to improve my skills. My passion for coding drives me to deliver high-quality software solutions that meet my clients' requirements and exceed their expectations.</code>
+
+<code>If you are looking for a dedicated and experienced freelance developer to build your next project, I would love to collaborate with you.</code>
 			</div>
 		</div>
 	</div>
