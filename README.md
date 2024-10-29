@@ -1,31 +1,22 @@
-<div id="badges" align="center">
-	<div align="center">
-		<img src="https://i.pinimg.com/originals/c2/58/82/c25882c15c5e1a39091f3d0bed50f3e9.gif" width="300"><br><br>
-	</div>
-</div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center">
-	<h1>S U R E L L E </h1>
-	<div align="center">
-		<img src="https://komarev.com/ghpvc/?username=surelle-ha&style=flat-square&color=blue" alt="" />
-		<h3 style="display: inline-flex; align-items: center;">
-    Hey there! Welcome to my profile.
-</h3>
-		<div style="display: flex; align-items: center; justify-content: center; gap: 20px; max-width: 800px; margin: auto;">
-			<div style="flex: 1; text-align: justify;">
-					<code>Hi, I'm Harold Eustaquio, a freelance developer with more than 3 years of experience in software development. I have been working as a freelance developer since 2018 and have gained expertise in a wide range of programming languages including C, C++, PHP, Javascript, Java, and Python. Apart from my programming skills, I also have experience in various frameworks such as Laravel, Vue.JS, Express.JS, Node.JS and Flask. These frameworks have helped me to develop robust and scalable applications for my clients.</code>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<code>Before diving into the world of software development, I also worked in customer service for a year, which has given me excellent communication and problem-solving skills. Additionally, I worked as a tech support, where I was responsible for helping clients with various technical issues.</code>
+<img align="right" width=200px alt="Unicorn" src="https://i.pinimg.com/originals/c2/58/82/c25882c15c5e1a39091f3d0bed50f3e9.gif"/>
 
-<code>In my free time, I love to explore new technologies and experiment with different programming languages to improve my skills. My passion for coding drives me to deliver high-quality software solutions that meet my clients' requirements and exceed their expectations.</code>
+Hi, I'm Harold Eustaquio, a freelance developer with more than 3 years of experience in software development. I have been working as a freelance developer since 2018 and have gained expertise in a wide range of programming languages including C, C++, PHP, Javascript, Java, and Python. Apart from my programming skills, I also have experience in various frameworks such as Laravel, Vue.JS, Express.JS, Node.JS and Flask. These frameworks have helped me to develop robust and scalable applications for my clients.
 
-<code>If you are looking for a dedicated and experienced freelance developer to build your next project, I would love to collaborate with you.</code>
-			</div>
-		</div>
-	</div>
-</div>
+Before diving into the world of software development, I also worked in customer service for a year, which has given me excellent communication and problem-solving skills. Additionally, I worked as a tech support, where I was responsible for helping clients with various technical issues.
 
+In my free time, I love to explore new technologies and experiment with different programming languages to improve my skills. My passion for coding drives me to deliver high-quality software solutions that meet my clients' requirements and exceed their expectations.
+
+If you are looking for a dedicated and experienced freelance developer to build your next project, I would love to collaborate with you.
+- 📚 I’m currently mastering ...
+  - *TypeScript*
+- 📫 Reach out to me at: <a href="011harold@gmail.com">011harold@gmail.com</a>
 <br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 **Languages and Tools:**  
 
@@ -64,7 +55,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/surelle-ha)](https://github.com/surelle-ha)
 [![Facebook Badge](https://img.shields.io/badge/-surellejs-00acee?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/surellejs)
 
-## Statistics
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+**Statistics**
 
 <div style="display: flex; gap: 50px;">
   <a href="https://git.io/streak-stats">
@@ -77,13 +70,19 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surelle-ha&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"></center>
 </div>
 
-## Github Trophies
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+**Github Trophies**
 
 <div style="display: flex; gap: 50px;">
   <img src="https://github-profile-trophy.vercel.app/?username=surelle-ha&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-<hr>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![image](https://github.com/user-attachments/assets/c298fba3-a5f4-4874-a2a7-9dae5c42ddd6)
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/surelle-ha/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
 
