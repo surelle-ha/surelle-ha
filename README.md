@@ -16,6 +16,14 @@ If you are looking for a dedicated and experienced freelance developer to build 
 - 📫 Reach out to me at: <a href="011harold@gmail.com">011harold@gmail.com</a>
 <br>
 
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=surelle-ha&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>   
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 **Languages and Tools:**  
@@ -68,6 +76,7 @@ If you are looking for a dedicated and experienced freelance developer to build 
   </a>
 	<center>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surelle-ha&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"></center>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eustahc&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"></center>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
