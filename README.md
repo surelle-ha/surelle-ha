@@ -1,11 +1,11 @@
 <div id="badges" align="center">
 	<div align="center">
-		<img src="https://i.pinimg.com/originals/d8/78/48/d878485cac8d590702c9b8cf9c0bdbf9.gif" width="200"/><br><br>
+		<img src="https://i.pinimg.com/originals/c2/58/82/c25882c15c5e1a39091f3d0bed50f3e9.gif" width="300"><br><br>
 	</div>
 </div>
 
 <div align="center">
-	<h1>S U R E L L E</h1>
+	<h1>S U R E L L E </h1>
 	<div align="center">
 		<img src="https://komarev.com/ghpvc/?username=surelle-ha&style=flat-square&color=blue" alt="" />
 		<h3 style="display: inline-flex; align-items: center;">
@@ -25,6 +25,8 @@
 
 **Languages and Tools:**  
 
+<code><img height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="10" src="https://github.com/user-attachments/assets/46d2277e-7313-489f-a944-47b2994b5b2f"></code>
 <code><img height="10" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
 <code><img height="10" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="10" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/rust.svg"></code>
@@ -32,7 +34,7 @@
 <code><img height="10" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="10" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <code><img height="10" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postgresql.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=surelle-ha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="surelle-ha" />
+<img align="right" width="200" src="https://i.pinimg.com/originals/d8/78/48/d878485cac8d590702c9b8cf9c0bdbf9.gif" alt="surelle-ha" />
 
 **Technology**
 
@@ -64,8 +66,20 @@
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=surelle-ha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak"/>
   </a>
-  <a href="https://github.com/surelle-ha/surelle-ha/blob/main/README.md">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surelle-ha&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages"/>
+ <a href="https://github.com/surelle-ha/surelle-ha/blob/main/README.md">
+    <img src="https://github-readme-stats.vercel.app/api?username=surelle-ha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Top Languages"/>
   </a>
+	<center>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surelle-ha&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"></center>
+</div>
+
+## Github Trophies
+
+<div style="display: flex; gap: 50px;">
   <img src="https://github-profile-trophy.vercel.app/?username=surelle-ha&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
+
+<hr>
+
+![image](https://github.com/user-attachments/assets/c298fba3-a5f4-4874-a2a7-9dae5c42ddd6)
+
