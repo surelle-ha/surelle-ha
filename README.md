@@ -1,4 +1,4 @@
-<img src="https://preview.redd.it/e7qitf1fg9n71.png?auto=webp&s=8c7313664c4614364a55015b8d10bb773d627c1a" width="100%">
+<img src="https://github.com/user-attachments/assets/41c69f98-1a91-4872-81fd-b2e1c11b71a1" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
