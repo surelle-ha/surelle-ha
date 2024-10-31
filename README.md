@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/41c69f98-1a91-4872-81fd-b2e1c11b71a1" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
