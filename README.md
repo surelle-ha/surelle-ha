@@ -8,9 +8,15 @@ Hi, I'm Harold Eustaquio, a freelance developer with more than 3 years of experi
 
 Before diving into the world of software development, I also worked in customer service for a year, which has given me excellent communication and problem-solving skills. Additionally, I worked as a tech support, where I was responsible for helping clients with various technical issues.
 
+<img align="left" width="200px" src="https://camo.githubusercontent.com/8c980d513bc23fc39e7a89666eb940fc08965ac3fbeed38e621dc3e4f5a8a7aa/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31313663373764393639653363333334646537333665366534393664333237392f74756d626c725f7031626f36724c426a4d31763162386e616f315f3534302e67696676"/>
+
 In my free time, I love to explore new technologies and experiment with different programming languages to improve my skills. My passion for coding drives me to deliver high-quality software solutions that meet my clients' requirements and exceed their expectations.
 
 If you are looking for a dedicated and experienced freelance developer to build your next project, I would love to collaborate with you.
+
+<br />
+<br />
+
 - 📚 I’m currently mastering ...
   - *TypeScript*
 - 📫 Reach out to me at: <a href="011harold@gmail.com">011harold@gmail.com</a>
@@ -94,4 +100,3 @@ If you are looking for a dedicated and experienced freelance developer to build 
     <img alt="visitors counter" src="https://profile-counter.glitch.me/surelle-ha/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
-
