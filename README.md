@@ -51,7 +51,6 @@ If you are looking for a dedicated and experienced freelance developer to build 
   <img height="30" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" style="background: gray; border-radius: 4px; padding: 5px;">
 </div>
 
-
 **LINUX**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: #f5f5f5; padding: 10px; border-radius: 8px;">
@@ -63,10 +62,6 @@ If you are looking for a dedicated and experienced freelance developer to build 
   <img height="30" src="https://static-00.iconduck.com/assets.00/distributor-logo-manjaro-icon-1024x1023-oodbxw32.png" style="background: gray; border-radius: 4px; padding: 5px;">
   <img height="30" src="https://static-00.iconduck.com/assets.00/distributor-logo-endeavouros-icon-2048x1707-6lrk99z2.png" style="background: gray; border-radius: 4px; padding: 5px;">
 </div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-**Statistics**
 
 <table>
   <tr>
@@ -86,10 +81,6 @@ If you are looking for a dedicated and experienced freelance developer to build 
 </tr>
 </table>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-**Github Trophies**
-
 <div style="display: flex; gap: 50px;">
   <img src="https://github-profile-trophy.vercel.app/?username=surelle-ha&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
@@ -100,10 +91,13 @@ If you are looking for a dedicated and experienced freelance developer to build 
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/surelle-ha/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
 
 [![Gmail Badge](https://img.shields.io/badge/-0110harold@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0110harold@gmail.com)](mailto:0110harold@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-surellejs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surellejs/)](https://www.linkedin.com/in/surellejs/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/surelle-ha)](https://github.com/surelle-ha)
 [![Facebook Badge](https://img.shields.io/badge/-surellejs-00acee?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/surellejs)
+ 
+</div>
+
+
 
