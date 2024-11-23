@@ -1,6 +1,6 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="assets/borders/line-neon.gif" width="100%">
 
-<img align="right" width=200px alt="Unicorn" src="https://i.pinimg.com/originals/c2/58/82/c25882c15c5e1a39091f3d0bed50f3e9.gif"/>
+<img align="right" width=200px alt="Unicorn" src="assets/designs/ghibli.gif"/>
 
 Hi, I'm Harold Eustaquio, a freelance developer with more than 3 years of experience in software development. I have been working as a freelance developer since 2018 and have gained expertise in a wide range of programming languages including C, C++, PHP, Typescript, Java, and Python. Apart from my programming skills, I also have experience in various frameworks such as Laravel, Vue.JS, Express.JS, Fastify.JS, Nest.JS and Flask. These frameworks have helped me to develop scalable applications for my clients.
 
@@ -20,47 +20,58 @@ If you are looking for a dedicated and experienced freelance developer to build 
 </div>
 </p>   
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="assets/borders/line-neon.gif" width="100%">
 
 **TECHNOLOGIES**
 
-<img align="right" width="200" src="https://i.pinimg.com/originals/d8/78/48/d878485cac8d590702c9b8cf9c0bdbf9.gif" alt="surelle-ha" />
+<img align="right" width="200" src="assets/designs/totoro.gif" alt="surelle-ha" />
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: whitesmoke; padding: 10px; border-radius: 8px;">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://github.com/user-attachments/assets/46d2277e-7313-489f-a944-47b2994b5b2f" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://www.shareicon.net/download/2016/07/10/119874_apps.ico" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2047-5s6wkmk1.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://images.ctfassets.net/em6l9zw4tzag/oVfiswjNH7DuCb7qGEBPK/b391db3a1d0d3290b96ce7f6aacb32b0/python.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/vuejs.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/nuxtjs.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/reactjs.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/typescript.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/javascript.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/rust.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/python.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/git.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/mysql.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/postgres.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/java.png" style="background: gray; border-radius: 4px; padding: 5px;">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: #f5f5f5; padding: 10px; border-radius: 8px;">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-912x1024-j3yidw37.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://d3oofn3y8h5efg.cloudfront.net/assets/images/flask_logo_icon.svg?w=750&q=75" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://plugins.jetbrains.com/files/13801/158327/icon/pluginIcon.svg" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/php.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/cpp.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/c.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/django.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/flask.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/expressjs.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/fastify.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/nestjs.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/docker.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/aws.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/cloudflare.png" style="background: gray; border-radius: 4px; padding: 5px;">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: #f5f5f5; padding: 10px; border-radius: 8px;">
+  <img height="30" src="assets/technologies/solana.png" style="background: gray; border-radius: 4px; padding: 5px;">
 </div>
 
 **LINUX**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: #f5f5f5; padding: 10px; border-radius: 8px;">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/15465/15465695.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175076.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://www.shareicon.net/download/2015/09/16/101867_archlinux.svg" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://static-00.iconduck.com/assets.00/distributor-logo-manjaro-icon-1024x1023-oodbxw32.png" style="background: gray; border-radius: 4px; padding: 5px;">
-  <img height="30" src="https://static-00.iconduck.com/assets.00/distributor-logo-endeavouros-icon-2048x1707-6lrk99z2.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/linux.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/ubuntu.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/debian.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/arch.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/kali.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/manjaro.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/endeavor.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/parrot.jpg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/alpine.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/garuda.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/linux/tails.png" style="background: gray; border-radius: 4px; padding: 5px;">
 </div>
 
 <table>
@@ -85,7 +96,7 @@ If you are looking for a dedicated and experienced freelance developer to build 
   <img src="https://github-profile-trophy.vercel.app/?username=surelle-ha&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="assets/borders/line-neon.gif" width="100%">
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
