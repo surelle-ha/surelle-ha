@@ -56,6 +56,10 @@ If you are looking for a dedicated and experienced freelance developer to build 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: #f5f5f5; padding: 10px; border-radius: 8px;">
   <img height="30" src="assets/technologies/solana.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/mongodb.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/firebase.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/supabase.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/vercel.svg" style="background: gray; border-radius: 4px; padding: 5px;">
 </div>
 
 **LINUX**
