@@ -60,6 +60,12 @@ If you are looking for a dedicated and experienced freelance developer to build 
   <img height="30" src="assets/technologies/firebase.svg" style="background: gray; border-radius: 4px; padding: 5px;">
   <img height="30" src="assets/technologies/supabase.png" style="background: gray; border-radius: 4px; padding: 5px;">
   <img height="30" src="assets/technologies/vercel.svg" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/portainer.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/terraform.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/redis.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/rabbitmq.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/nginx.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/technologies/tailwind.svg" style="background: gray; border-radius: 4px; padding: 5px;">
 </div>
 
 **LINUX**
@@ -76,6 +82,17 @@ If you are looking for a dedicated and experienced freelance developer to build 
   <img height="30" src="assets/linux/alpine.png" style="background: gray; border-radius: 4px; padding: 5px;">
   <img height="30" src="assets/linux/garuda.png" style="background: gray; border-radius: 4px; padding: 5px;">
   <img height="30" src="assets/linux/tails.png" style="background: gray; border-radius: 4px; padding: 5px;">
+</div>
+
+**NETWORK & SECURITY**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: #f5f5f5; padding: 10px; border-radius: 8px;">
+  <img height="30" src="assets/security/maltego.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/security/burpsuite.webp" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/security/wireshark.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/security/metasploit.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  <img height="30" src="assets/security/sqlmap.png" style="background: gray; border-radius: 4px; padding: 5px;">
+  
 </div>
 
 <table>
