@@ -1,6 +1,6 @@
 <img src="assets/borders/line-neon.gif" width="100%">
 
-<img align="right" width=200px alt="Unicorn" src="assets/designs/ghibli.gif"/>
+<!-- <img align="right" width=200px alt="Unicorn" src="assets/designs/ghibli.gif"/> -->
 
 Hi, I'm Harold Eustaquio, a freelance developer with more than 3 years of experience in software development. I have been working as a freelance developer since 2018 and have gained expertise in a wide range of programming languages including C, C++, PHP, Typescript, Java, and Python. Apart from my programming skills, I also have experience in various frameworks such as Laravel, Vue.JS, Express.JS, Fastify.JS, Nest.JS and Flask. These frameworks have helped me to develop scalable applications for my clients.
 
@@ -15,7 +15,7 @@ If you are looking for a dedicated and experienced freelance developer to build 
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=surelle-ha&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=surelle-ha&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />	  
     </a>
 </div>
 </p>   
@@ -24,7 +24,7 @@ If you are looking for a dedicated and experienced freelance developer to build 
 
 **TECHNOLOGIES**
 
-<img align="right" width="200" src="assets/designs/totoro.gif" alt="surelle-ha" />
+<!-- <img align="right" width="200" src="assets/designs/totoro.gif" alt="surelle-ha" /> -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: whitesmoke; padding: 10px; border-radius: 8px;">
   <img height="30" src="assets/technologies/vuejs.svg" style="background: gray; border-radius: 4px; padding: 5px;">
