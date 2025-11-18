@@ -2,15 +2,29 @@
 
 <!-- <img align="right" width=200px alt="Unicorn" src="assets/designs/ghibli.gif"/> -->
 
-Hi, I'm Harold Eustaquio, a freelance developer with more than 3 years of experience in software development. I have been working as a freelance developer since 2018 and have gained expertise in a wide range of programming languages including C, C++, PHP, Typescript, Java, and Python. Apart from my programming skills, I also have experience in various frameworks such as Laravel, Vue.JS, Express.JS, Fastify.JS, Nest.JS and Flask. These frameworks have helped me to develop scalable applications for my clients.
+Hi, I'm Harold Eustaquio, a software developer with a long-standing passion for technology. I started programming at 13 years old, experimenting with command-line tools and small scripts, and that early curiosity eventually grew into a professional career by the age of 17. Since then, I’ve focused on building systems that emphasize scalability, performance, and long-term maintainability.
 
-Before diving into the world of software development, I also worked in customer service for a year, which has given me excellent communication and problem-solving skills. Additionally, I worked as a tech support, where I was responsible for helping clients with various technical issues.
+My technical expertise spans several categories:
+
+- **Programming Languages**: TypeScript, JavaScript, Python C, C++, PHP, Rust
+- **Frameworks**: NestJS, Fastify, ExpressJS, Laravel, Flask, Django, VueJS, NuxtJS, ElectronJS, LernaJS, Tauri, Astro
+- **Databases**: PostgreSQL, MySQL, MongoDB, Firestore, OracleDB
+- **ORM**: Sequelize, Prisma, Eloquent, Mongoose, TypeORM
+- **Container**: Docker, Docker Swarm
+- **Cloud Computing**: AWS, Linode, Heroku, Vercel, Render, DigitalOcean
+- **Infrastructure**: Prometheus, Loki, Grafana, Wazuh, Portainer, Seafile, Nextcloud
+- **CMS**: Drupal, WordPress
+- **Blockchain & Smart Contracts**: Rust-based smart contract development
+  
+I'm currently developing Aegisr, an ultra-fast key–value database (KVD) built entirely with Rust, designed to leverage in-memory storage for maximum performance and minimal latency. The project focuses on providing developers with a high-performance data storage solution that can handle large-scale workloads efficiently while remaining highly reliable and easy to integrate into modern applications.
+
+I’m particularly drawn to designing scalable, modular architectures that anticipate future growth and change. I strive to write clean, maintainable, and future-proof code that reduces the need for frequent refactoring, making it easier for teams to extend and improve systems over time without introducing complexity or instability.
 
 <img align="left" width="200px" src="https://camo.githubusercontent.com/8c980d513bc23fc39e7a89666eb940fc08965ac3fbeed38e621dc3e4f5a8a7aa/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31313663373764393639653363333334646537333665366534393664333237392f74756d626c725f7031626f36724c426a4d31763162386e616f315f3534302e67696676"/>
 
 In my free time, I love to explore new technologies and experiment with different programming languages to improve my skills. My passion for coding drives me to deliver high-quality software solutions that meet my clients' requirements and exceed their expectations.
 
-If you are looking for a dedicated and experienced freelance developer to build your next project, I would love to collaborate with you.
+If you're looking for someone who values performance-oriented engineering and thoughtful systems design, I’d be excited to collaborate with you.
 
 <p align="center">
 <div align=center>
